@@ -6,7 +6,6 @@ Creating a fasting-focused fitness tracker with the following essential features
 
 ### Fasting Timer:
 - Track fasting duration.
-- Start/stop timer with ease.
 - Display elapsed time.
 - Send notifications for meal breaks and fasting resumption.
 
